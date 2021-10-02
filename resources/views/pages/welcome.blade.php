@@ -6,7 +6,7 @@ Hello City
 
 @section('content')
 
-        <img src="{{asset('images/drapeau.jpg')}}" alt="drapeau-senegal" class="mt-12 rounded shadow-md h-32" >
+        <img src="{{asset('images/drapeau.jpg')}}" alt="drapeau-senegal" class="mt-12 rounded shadow-md h-32" width="120px">
      
         <h1 class="mt-5 text-3xl sm:text-5xl font-semibold text-indigo-600">Hello from Thiés !</h1>
 
